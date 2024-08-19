@@ -14,7 +14,7 @@ Este projeto demonstra na prática uma API desenvolvida em NestJS utilizando o b
 - Node.js
 - Docker
 
-## Como utilizar
+## Como utilizar 🧠
 
 Primeiramente, é necessário instalar as dependências do projeto:
 
@@ -42,6 +42,6 @@ Inicie o servidor local:
   npm run start:dev
 ```
 
-## Licença
+## Licença ☕
 
-Este projeto está licenciado sob a **MIT License**.
+Este projeto está licenciado sob a [**MIT License**](https://github.com/GabeTheGopher/NestJS-PostgreSQL-JWT/blob/master/LICENSE).
